@@ -2,7 +2,7 @@
 
 Project for Interview on April 21 2025
 
-## Env File Structure
+## .env File Structure
 
 ```bash
 DATABASE_URL="MongoDB URL with database name"
