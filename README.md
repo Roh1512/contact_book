@@ -1,6 +1,7 @@
 # Contact App
 
 Project for Interview on April 21 2025
+Express JS application with authentication an CRUD operations for contacts
 
 ## .env File Structure
 
