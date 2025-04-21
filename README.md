@@ -11,5 +11,5 @@ NODE_ENV="development or production"
 
 SECRET = "Some secret for token"
 
-PW_HASH = Hash value for password hashing
+PW_HASH = Hash value for password hashing (Example - 10)
 ```
